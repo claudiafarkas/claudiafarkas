@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-My current educational pursuit involves delving into Machine Learning through Coursera. I have a profound interest in research and gathering data, and I am enthusiastic about promoting women's involvement in technology. Aspiring to excel in the field, I am on my path to becoming a data scientist.
+# About Me:
+I am currently a masters student studying software engineering; specifically sofware engineering requirements. I have a profound interest in research and gathering data, and I am enthusiastic about promoting women's involvement in technology. Aspiring to excel in the field, I am on my path to becoming a data scientist.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
