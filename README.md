@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 # About Me:
 I am currently a masters student studying software engineering; specifically sofware engineering requirements. I have a profound interest in research and gathering data, and I am enthusiastic about promoting women's involvement in technology. Aspiring to excel in the field, I am on my path to becoming a data scientist.
 
+[![roadmap.sh](https://roadmap.sh/card/tall/673bc98f39f50dbedc4c63cf?variant=dark)](https://roadmap.sh)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
