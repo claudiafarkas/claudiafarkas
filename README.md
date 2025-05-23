@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 # About Me:
 I am currently a masters student studying computer science, specialization in AI driven by a passion for unlocking insights from data.
-
 Beyond technical skills, I thrive on continuous learning and keeping up with emerging trends in AI and machine learning. 
-
-You can take a look at my roadmap.sh card to keep track of my recent interests and learing goals :)
-
-
-[![roadmap.sh](https://roadmap.sh/card/tall/673bc98f39f50dbedc4c63cf?variant=dark)](https://roadmap.sh)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
